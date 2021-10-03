@@ -1,0 +1,15 @@
+{
+  "name": "aprendiendo_npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alfonso",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sweetalert2": "^11.1.7"
+  }
+}
